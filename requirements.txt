@@ -1,0 +1,24 @@
+numpy
+networkx
+scipy == 1.14.0
+pulp
+math
+random
+matplotlib
+pandas
+sklearn
+
+time
+datetime
+re
+urllib.request
+io
+zipfile 
+os 
+shutil
+gzip
+argparse
+
+tqdm
+multiprocessing
+pickle
